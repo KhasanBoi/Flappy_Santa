@@ -1,2 +1,2 @@
 # Flappy_Santa
-спасибо Ирина Галкина
+спасибо Ирина Галкина (yotube tutorial)
